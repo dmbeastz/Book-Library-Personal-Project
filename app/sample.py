@@ -1,6 +1,6 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from models import Base, Author, Book
+from app.book_library import Base, Author, Book
 from datetime import datetime, date
 
 def seed_data():

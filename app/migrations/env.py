@@ -5,9 +5,9 @@ from sqlalchemy import pool
 
 from alembic import context
 
-from models import Base
-from models import Book
-from models import Author
+from app.book_library import Base
+from app.book_library import Book
+from app.book_library import Author
 target_metadata = Base.metadata
 
 # this is the Alembic Config object, which provides
