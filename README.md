@@ -21,7 +21,7 @@ git clone git@github.com:dmbeastz/Book-Library-Personal-Project.git
 
 Once the repository is cloned, open the `Book-Library-Personal-Project` folder in your text editor.
 
-### Running the Application:###
+### Running the Application:
 To run the application, follow these steps:
 
 1. **Install Dependencies:**
