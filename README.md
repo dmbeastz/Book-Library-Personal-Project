@@ -1,9 +1,8 @@
  # Book Library Personal Project
  ### Author Dave Mutisya 
-
 This project is a personal project to create a simple book library management system using Python. The goal of this project is to provide a basic understanding of how to create a simple database application using Python and to practice writing clean and efficient code.
 
-### Prerequisites
+## Prerequisites
 
 To run this project, you will need the following:
 
@@ -22,7 +21,7 @@ git clone git@github.com:dmbeastz/Book-Library-Personal-Project.git
 
 Once the repository is cloned, open the `Book-Library-Personal-Project` folder in your text editor.
 
-**Running the Application:**
+### Running the Application:###
 To run the application, follow these steps:
 
 1. **Install Dependencies:**
@@ -42,6 +41,11 @@ To run the application, follow these steps:
    ```
    This will start the application.
 
+### Using the Project
+
+To run the project, simply open the `python app/book_library.py` script in your text editor and click the "Run" button. The script will start running and will display a menu of options. You can select an option by entering the corresponding number and pressing Enter.
+
+
 ### Project Structure
 
 The project is structured as follows:
@@ -59,10 +63,6 @@ The `book_library.py` script contains the following functions:
 * `edit_book()`: This function edits the details of a book in the library.
 * `search_book()`: This function searches for a book in the library by title or author.
 * `list_books()`: This function lists all the books in the library.
-
-### Using the Project
-
-To run the project, simply open the `python app/book_library.py` script in your text editor and click the "Run" button. The script will start running and will display a menu of options. You can select an option by entering the corresponding number and pressing Enter.
 
 ### Code Snippets
 
